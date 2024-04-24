@@ -51,7 +51,7 @@ function Login() {
         <>
             <div className='login my-5' >
                 <section className="my_shadow container text-center" style={myStyle}>
-                    <h1 className='fw-bolder display-5 pt-4 my-4'>Binayr Art By Ahrar </h1>
+                    <h1 className='fw-bolder display-5 pt-4 my-4'>Binary Art By Ahrar </h1>
                     <h3 className='fw-bolder display-5 pt-4 my-4 fst-italic' >LOGIN </h3>
                     <h5>or</h5>
                     <div className="icons d-flex justify-content-center my-4">
